@@ -1,0 +1,1093 @@
+2021-06-01 19:19:26,844 [main] [INFO ] Utiliti.Log:20:Log.java - Tests are starting
+2021-06-01 19:30:21,703 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-01 19:30:22,031 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-01 19:30:23,398 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-01 19:39:23,638 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-01 19:39:24,262 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-01 19:39:25,616 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-01 19:40:18,232 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-01 19:40:18,361 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-01 19:40:21,295 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheetMostafa
+2021-06-01 19:40:21,572 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheetSalem
+2021-06-01 19:40:31,817 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet123234465
+2021-06-01 19:40:32,338 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet194031m@test.com
+2021-06-01 19:40:32,774 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet#As123
+2021-06-01 19:40:33,059 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet#As123
+2021-06-01 19:59:14,027 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-01 19:59:14,474 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-01 19:59:15,819 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-01 19:59:16,383 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTestTest is starting.
+2021-06-01 19:59:34,182 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-01 19:59:34,281 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-01 19:59:37,986 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-01 19:59:38,372 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-01 19:59:42,788 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-01 19:59:43,286 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 195942m@test.com
+2021-06-01 19:59:43,963 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-01 19:59:44,381 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-01 19:59:47,117 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-01 19:59:49,099 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-01 19:59:49,196 [main] [INFO ] Utiliti.Log:20:Log.java - Test is Finishingphp Travel
+2021-06-01 20:06:33,561 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-01 20:06:33,859 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-01 20:06:34,844 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-01 20:06:35,419 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest is starting.
+2021-06-01 20:06:51,867 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-01 20:06:52,008 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-01 20:06:56,411 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-01 20:06:56,858 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-01 20:07:03,214 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-01 20:07:03,465 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 200703m@test.com
+2021-06-01 20:07:06,325 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-01 20:07:06,751 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-01 20:07:09,763 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-01 20:07:11,656 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-01 20:07:11,764 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-01 20:19:25,454 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-01 20:19:26,053 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-01 20:19:27,455 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-01 20:19:28,551 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest is starting.
+2021-06-01 20:19:52,554 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-01 20:19:52,678 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-01 20:19:56,942 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-01 20:19:57,324 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-01 20:20:01,410 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-01 20:20:01,771 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 202001m@test.com
+2021-06-01 20:20:02,252 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-01 20:20:02,968 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-01 20:20:10,341 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-01 20:20:14,406 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-01 20:20:14,632 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-02 17:07:56,872 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-02 17:07:57,301 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-02 17:07:59,380 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-02 17:08:00,017 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest is starting.
+2021-06-02 17:08:19,773 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-02 17:08:19,882 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-02 17:08:23,992 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-02 17:08:24,459 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-02 17:08:24,909 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-02 17:08:25,288 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 170824m@test.com
+2021-06-02 17:08:25,657 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-02 17:08:25,924 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-02 17:08:33,617 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-02 17:08:36,284 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-02 17:08:36,463 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-02 17:30:27,150 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-02 17:30:27,494 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-02 17:30:29,019 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-02 17:30:30,436 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-02 17:33:40,221 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-02 17:33:40,570 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-02 17:33:41,601 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-02 17:33:42,454 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest is starting.
+2021-06-02 17:33:59,083 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-02 17:33:59,219 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-02 17:34:03,304 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-02 17:34:03,657 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-02 17:34:04,020 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-02 17:34:04,239 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 173404m@test.com
+2021-06-02 17:34:04,457 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-02 17:34:04,816 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-02 17:34:12,832 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-02 17:34:14,616 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-02 17:34:17,273 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-03 13:09:03,202 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 13:09:03,545 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 13:09:04,592 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 13:09:05,446 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-03 13:09:32,670 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 13:09:32,832 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 13:09:37,624 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-03 13:09:37,965 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-03 13:09:38,272 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 13:09:38,467 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 130938m@test.com
+2021-06-03 13:09:38,735 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 13:09:38,995 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 13:09:53,610 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 13:09:55,749 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 13:10:04,977 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 13:10:05,236 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 13:10:06,407 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 13:10:06,603 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-03 13:10:29,735 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 13:10:29,797 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 13:10:30,075 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Ahmed
+2021-06-03 13:10:30,321 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: mohamed
+2021-06-03 13:10:30,496 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 13:10:30,684 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 131030m@test.com
+2021-06-03 13:10:30,866 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 13:10:31,174 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 13:10:39,358 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 13:10:41,240 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 13:10:41,360 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-03 13:27:53,834 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-03 13:27:54,546 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-03 13:29:33,074 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-03 13:29:34,715 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-03 14:40:44,763 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-03 14:40:45,407 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-03 14:42:31,657 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 14:42:31,969 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 14:42:33,383 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 14:42:34,043 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-03 14:42:53,898 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 14:42:54,004 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 14:42:59,522 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-03 14:42:59,788 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-03 14:43:00,086 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 14:43:00,314 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 144300m@test.com
+2021-06-03 14:43:00,556 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 14:43:00,738 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 14:43:08,175 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 14:43:10,401 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 14:43:16,852 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 14:43:17,175 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 14:43:18,207 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 14:43:18,319 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-03 14:43:39,193 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 14:43:39,296 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 14:43:39,548 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Ahmed
+2021-06-03 14:43:39,687 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: mohamed
+2021-06-03 14:43:39,848 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 14:43:40,033 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 144339m@test.com
+2021-06-03 14:43:40,205 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 14:43:40,347 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 14:43:48,778 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 14:43:51,005 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 14:43:51,077 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-03 17:00:44,322 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 17:00:44,696 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 17:00:46,818 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 17:00:48,929 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-03 17:01:11,434 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 17:01:11,539 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 17:01:15,454 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-03 17:01:15,778 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-03 17:01:16,138 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 17:01:16,471 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 170116m@test.com
+2021-06-03 17:01:16,774 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 17:01:17,011 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 17:01:23,945 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 17:01:26,462 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 17:01:33,408 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 17:01:33,667 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 17:01:34,836 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 17:01:34,915 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-03 17:01:52,882 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 17:01:52,943 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 17:01:53,123 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Ahmed
+2021-06-03 17:01:53,297 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: mohamed
+2021-06-03 17:01:53,570 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 17:01:54,100 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 170153m@test.com
+2021-06-03 17:01:54,495 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 17:01:54,947 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 17:02:02,893 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 17:02:04,652 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 17:02:04,728 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-03 17:42:11,635 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 17:42:11,936 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 17:42:12,931 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 17:42:19,739 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-03 17:42:31,295 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 17:42:31,407 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 17:42:31,584 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-03 17:42:31,702 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-03 17:42:31,960 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 17:42:32,093 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 174231m@test.com
+2021-06-03 17:42:32,175 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 17:42:32,267 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 17:42:42,824 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 17:42:48,314 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-03 17:45:22,787 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 17:45:23,143 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 17:45:24,227 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 17:45:28,716 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-03 17:45:49,582 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 17:45:49,676 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 17:45:49,823 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-03 17:45:49,903 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-03 17:45:50,020 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 17:45:50,096 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 174550m@test.com
+2021-06-03 17:45:50,192 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 17:45:50,284 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 17:45:58,045 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 17:46:00,113 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 17:46:02,956 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-03 17:46:03,194 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-03 17:46:04,140 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-03 17:46:04,416 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-03 17:46:29,552 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-03 17:46:29,631 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-03 17:46:29,721 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Ahmed
+2021-06-03 17:46:29,807 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: mohamed
+2021-06-03 17:46:29,903 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-03 17:46:29,987 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 174629m@test.com
+2021-06-03 17:46:30,130 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-03 17:46:30,253 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-03 17:46:43,426 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-03 17:46:47,566 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-03 17:46:47,879 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-04 10:42:51,761 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-04 10:42:52,294 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-04 10:42:54,193 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-04 10:43:02,979 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-04 10:43:22,190 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-04 10:43:22,311 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-04 10:43:22,523 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-04 10:43:22,689 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-04 10:43:25,128 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-04 10:43:25,274 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 104325m@test.com
+2021-06-04 10:43:25,404 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-04 10:43:25,521 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-04 10:43:38,573 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-04 10:43:41,914 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-04 10:43:45,502 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-04 10:43:45,801 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-04 10:43:48,707 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-04 10:43:49,400 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-04 10:44:26,013 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-04 10:44:26,111 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-04 10:44:26,215 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Ahmed
+2021-06-04 10:44:26,311 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: mohamed
+2021-06-04 10:44:26,395 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-04 10:44:26,629 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 104426m@test.com
+2021-06-04 10:44:27,470 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-04 10:44:27,654 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-04 10:44:41,103 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-04 10:44:43,538 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-04 10:44:43,620 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 19:08:23,702 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 19:08:24,139 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 19:08:25,884 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 19:08:31,309 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 19:08:54,356 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-07 19:08:54,457 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-07 19:08:54,744 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-07 19:08:54,941 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-07 19:08:55,139 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-07 19:08:55,241 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 190855m@test.com
+2021-06-07 19:08:55,329 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-07 19:08:55,437 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-07 19:09:03,899 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-07 19:09:06,933 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 21:27:40,290 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 21:27:40,639 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 21:27:41,858 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 21:27:46,876 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 21:27:50,346 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 21:27:50,507 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 21:36:06,714 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 21:36:07,060 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 21:36:08,093 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 21:36:12,371 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 21:36:14,681 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 21:36:14,947 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 21:41:27,915 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 21:41:28,298 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 21:41:29,389 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 21:41:31,646 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 21:49:53,372 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 21:49:53,885 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 21:49:55,439 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 21:49:58,531 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 21:54:25,247 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 21:54:25,600 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 21:54:26,702 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 21:54:27,899 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 21:55:26,827 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 21:55:27,113 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 21:55:28,165 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 21:55:30,352 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:00:56,538 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:00:56,889 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:00:58,088 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:01:02,627 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:01:07,967 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:10:06,717 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:10:07,258 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:10:08,447 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:10:11,796 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:10:17,635 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:10:17,752 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:11:42,309 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:11:42,766 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:11:44,075 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:11:47,386 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:11:49,204 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:11:49,314 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:17:34,286 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:17:34,624 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:17:35,774 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:17:40,330 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:17:42,088 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:17:42,323 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:18:34,879 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:18:35,325 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:18:37,119 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:18:42,836 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:18:46,150 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:18:46,258 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:22:58,646 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:22:58,961 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:23:00,121 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:23:04,400 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:23:07,358 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:23:07,700 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:28:07,641 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:28:08,059 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:28:09,332 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:28:14,034 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:28:32,156 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-07 22:28:32,269 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-07 22:28:32,448 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-07 22:28:32,572 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-07 22:28:32,770 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-07 22:28:32,891 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 222832m@test.com
+2021-06-07 22:28:33,015 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-07 22:28:33,120 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-07 22:28:40,589 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-07 22:28:42,670 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:28:51,970 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:28:52,289 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:28:53,346 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:28:53,731 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-07 22:29:08,031 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-07 22:29:08,117 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-07 22:29:08,191 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Ahmed
+2021-06-07 22:29:08,264 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: mohamed
+2021-06-07 22:29:08,345 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-07 22:29:08,424 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 222908m@test.com
+2021-06-07 22:29:08,509 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-07 22:29:08,604 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-07 22:29:14,863 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-07 22:29:16,798 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:29:16,867 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:36:26,291 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:36:26,705 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:36:27,770 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:36:35,782 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:36:40,497 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:36:40,644 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:42:25,809 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:42:26,170 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:42:27,273 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:42:31,485 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:42:35,583 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:42:35,741 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:43:51,460 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:43:51,816 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:43:52,905 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:43:57,169 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:43:58,870 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:43:58,983 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:46:18,870 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:46:19,250 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:46:20,460 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:46:25,999 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:46:30,166 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-07 22:46:30,334 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-07 22:48:57,456 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-07 22:48:57,777 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-07 22:48:59,267 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-07 22:49:02,864 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-07 22:49:25,210 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (fadc9f82716272fb5a83ebcd869b8cc8)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-07 22:49:30,468 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (fadc9f82716272fb5a83ebcd869b8cc8)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-07 22:49:30,558 [main] [INFO ] Utiliti.Log:20:Log.java - Click on My account Button
+2021-06-07 22:49:30,702 [main] [INFO ] Utiliti.Log:20:Log.java - Click on Signup Button
+2021-06-07 22:49:30,853 [main] [INFO ] Utiliti.Log:20:Log.java - Get First Name from Excel sheet: Mostafa
+2021-06-07 22:49:31,003 [main] [INFO ] Utiliti.Log:20:Log.java - Get Last Name from Excel sheet: Salem
+2021-06-07 22:49:31,128 [main] [INFO ] Utiliti.Log:20:Log.java - Get Phone number from Excel sheet: 123234465
+2021-06-07 22:49:31,277 [main] [INFO ] Utiliti.Log:20:Log.java - Get Email from Excel sheet: 224931m@test.com
+2021-06-07 22:49:31,405 [main] [INFO ] Utiliti.Log:20:Log.java - Get Password from Excel sheet: #As123
+2021-06-07 22:49:31,518 [main] [INFO ] Utiliti.Log:20:Log.java - Get Confirm Password from Excel sheet: #As123
+2021-06-07 22:49:42,091 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-07 22:49:45,481 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 10:50:37,443 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 10:50:37,817 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 10:50:39,078 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 10:50:46,698 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 10:50:59,681 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 10:51:03,548 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 10:51:03,973 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafain the elment [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> name: firstname]
+2021-06-08 10:51:04,185 [main] [INFO ] Utiliti.Log:20:Log.java - put Salemin the elment [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> name: lastname]
+2021-06-08 10:51:04,399 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465in the elment [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> name: phone]
+2021-06-08 10:51:04,605 [main] [INFO ] Utiliti.Log:20:Log.java - put 105103m@test.comin the elment [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> name: email]
+2021-06-08 10:51:04,745 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123in the elment [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> name: password]
+2021-06-08 10:51:04,869 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123in the elment [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> name: confirmpassword]
+2021-06-08 10:51:05,792 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (c307a587aac72831b7d21dced2e33a85)] -> xpath: //button[@type='submit']]
+2021-06-08 10:51:12,186 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 10:51:12,422 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 10:55:38,419 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 10:55:38,785 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 10:55:40,055 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 10:55:45,167 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 10:56:08,011 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 10:56:14,911 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 10:56:15,244 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafain the elment [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> name: firstname]
+2021-06-08 10:56:15,509 [main] [INFO ] Utiliti.Log:20:Log.java - put Salemin the elment [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> name: lastname]
+2021-06-08 10:56:15,684 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465in the elment [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> name: phone]
+2021-06-08 10:56:15,896 [main] [INFO ] Utiliti.Log:20:Log.java - put 105615m@test.comin the elment [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> name: email]
+2021-06-08 10:56:16,062 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123in the elment [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> name: password]
+2021-06-08 10:56:16,260 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123in the elment [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> name: confirmpassword]
+2021-06-08 10:56:19,913 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (986c61cc8dc306b61ea38828c86593e3)] -> xpath: //button[@type='submit']]
+2021-06-08 10:56:26,959 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 10:56:27,084 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 10:58:36,703 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 10:58:37,093 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 10:58:38,382 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 10:58:42,171 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 10:59:04,330 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 10:59:11,667 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 10:59:11,930 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> name: firstname]
+2021-06-08 10:59:12,093 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> name: lastname]
+2021-06-08 10:59:12,244 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> name: phone]
+2021-06-08 10:59:12,382 [main] [INFO ] Utiliti.Log:20:Log.java - put 105911m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> name: email]
+2021-06-08 10:59:12,554 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> name: password]
+2021-06-08 10:59:12,707 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> name: confirmpassword]
+2021-06-08 10:59:14,379 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (d06581f5f253af20af20a2ef8ff9a305)] -> xpath: //button[@type='submit']]
+2021-06-08 10:59:29,718 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 10:59:29,796 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:00:58,462 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:00:58,942 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:01:00,004 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:01:03,983 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:02:28,697 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:02:28,943 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:04:36,232 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:04:36,622 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:04:37,891 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:04:43,278 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:04:53,419 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:04:57,108 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:04:57,722 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> name: firstname]
+2021-06-08 11:04:58,079 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> name: lastname]
+2021-06-08 11:04:58,528 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> name: phone]
+2021-06-08 11:04:58,971 [main] [INFO ] Utiliti.Log:20:Log.java - put 110457m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> name: email]
+2021-06-08 11:04:59,331 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> name: password]
+2021-06-08 11:04:59,755 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> name: confirmpassword]
+2021-06-08 11:05:00,714 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7829f532ca2a5d538bc18c8b24ef4ed3)] -> xpath: //button[@type='submit']]
+2021-06-08 11:05:12,679 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:05:15,766 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:33:07,584 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:33:07,995 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:33:10,846 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:33:15,034 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:34:18,925 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:34:19,174 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:35:21,906 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:35:22,223 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:35:23,747 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:35:30,646 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:35:43,235 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:35:50,525 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:35:51,356 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> name: firstname]
+2021-06-08 11:35:51,894 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> name: lastname]
+2021-06-08 11:35:52,516 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> name: phone]
+2021-06-08 11:35:53,259 [main] [INFO ] Utiliti.Log:20:Log.java - put 113550m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> name: email]
+2021-06-08 11:35:53,781 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> name: password]
+2021-06-08 11:35:54,340 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> name: confirmpassword]
+2021-06-08 11:35:54,809 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (59000ad51a9db7559666bf4f791a7d06)] -> xpath: //button[@type='submit']]
+2021-06-08 11:36:01,579 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:36:01,786 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:36:34,413 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:36:36,440 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:36:38,281 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:36:42,960 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:37:34,251 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:37:45,441 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:37:48,374 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> name: firstname]
+2021-06-08 11:37:48,917 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> name: lastname]
+2021-06-08 11:37:49,606 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> name: phone]
+2021-06-08 11:37:50,280 [main] [INFO ] Utiliti.Log:20:Log.java - put 113747m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> name: email]
+2021-06-08 11:37:50,804 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> name: password]
+2021-06-08 11:37:52,126 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> name: confirmpassword]
+2021-06-08 11:37:52,593 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (59ce940d5e1a00255dfb94373b083d44)] -> xpath: //button[@type='submit']]
+2021-06-08 11:38:00,179 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:38:00,476 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:38:45,161 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:38:45,831 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:38:47,162 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:38:58,720 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:39:16,552 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:39:22,046 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:39:23,007 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> name: firstname]
+2021-06-08 11:39:23,554 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> name: lastname]
+2021-06-08 11:39:24,168 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> name: phone]
+2021-06-08 11:39:24,819 [main] [INFO ] Utiliti.Log:20:Log.java - put 113922m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> name: email]
+2021-06-08 11:39:25,312 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> name: password]
+2021-06-08 11:39:25,817 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> name: confirmpassword]
+2021-06-08 11:39:26,429 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (104d5bf007fcd2859b4cbac899e40a4f)] -> xpath: //button[@type='submit']]
+2021-06-08 11:39:30,080 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-08 11:39:32,287 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:39:37,818 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:39:38,169 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:39:39,394 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:39:39,840 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-08 11:39:56,765 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:40:05,346 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:40:05,910 [main] [INFO ] Utiliti.Log:20:Log.java - put Ahmed in the elment [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> name: firstname]
+2021-06-08 11:40:06,431 [main] [INFO ] Utiliti.Log:20:Log.java - put mohamed in the elment [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> name: lastname]
+2021-06-08 11:40:07,040 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> name: phone]
+2021-06-08 11:40:07,869 [main] [INFO ] Utiliti.Log:20:Log.java - put 114005m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> name: email]
+2021-06-08 11:40:08,472 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> name: password]
+2021-06-08 11:40:08,989 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> name: confirmpassword]
+2021-06-08 11:40:09,556 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (a7858b5175c1f2326e8858f6de833eaa)] -> xpath: //button[@type='submit']]
+2021-06-08 11:40:13,999 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-08 11:40:15,631 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:40:15,742 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:45:47,653 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:45:48,365 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:45:49,979 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:45:59,983 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:46:10,527 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:46:13,892 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:46:14,842 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> name: firstname]
+2021-06-08 11:46:15,398 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> name: lastname]
+2021-06-08 11:46:16,060 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> name: phone]
+2021-06-08 11:46:16,727 [main] [INFO ] Utiliti.Log:20:Log.java - put 114614m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> name: email]
+2021-06-08 11:46:17,257 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> name: password]
+2021-06-08 11:46:17,784 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> name: confirmpassword]
+2021-06-08 11:46:18,337 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (77a11d43f35e599ad3dac9fdf863a610)] -> xpath: //button[@type='submit']]
+2021-06-08 11:46:21,842 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-08 11:46:24,173 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:46:30,231 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:46:30,494 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:46:31,550 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:46:32,145 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-08 11:46:58,532 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:47:03,416 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:47:04,018 [main] [INFO ] Utiliti.Log:20:Log.java - put Ahmed in the elment [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> name: firstname]
+2021-06-08 11:47:04,533 [main] [INFO ] Utiliti.Log:20:Log.java - put mohamed in the elment [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> name: lastname]
+2021-06-08 11:47:05,138 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> name: phone]
+2021-06-08 11:47:06,057 [main] [INFO ] Utiliti.Log:20:Log.java - put 114703m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> name: email]
+2021-06-08 11:47:06,682 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> name: password]
+2021-06-08 11:47:07,327 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> name: confirmpassword]
+2021-06-08 11:47:07,961 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (1458299d1ae7ac63f9796574fd8566df)] -> xpath: //button[@type='submit']]
+2021-06-08 11:47:11,155 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-08 11:47:13,448 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:47:13,563 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 11:50:25,238 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:50:25,602 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:50:27,016 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:50:33,637 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:50:46,161 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:50:53,500 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:50:56,903 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> name: firstname]
+2021-06-08 11:50:57,529 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> name: lastname]
+2021-06-08 11:50:58,579 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> name: phone]
+2021-06-08 11:50:59,462 [main] [INFO ] Utiliti.Log:20:Log.java - put 115053m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> name: email]
+2021-06-08 11:51:00,556 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> name: password]
+2021-06-08 11:51:00,938 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> name: confirmpassword]
+2021-06-08 11:51:01,992 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (9a80a72c7c0c6a7699177eba12174c9c)] -> xpath: //button[@type='submit']]
+2021-06-08 11:52:01,762 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:52:04,614 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:52:05,753 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:52:12,209 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:53:46,790 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:53:55,526 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:53:56,264 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> name: firstname]
+2021-06-08 11:53:56,858 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> name: lastname]
+2021-06-08 11:53:57,391 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> name: phone]
+2021-06-08 11:53:58,003 [main] [INFO ] Utiliti.Log:20:Log.java - put 115355m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> name: email]
+2021-06-08 11:53:58,408 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> name: password]
+2021-06-08 11:53:58,882 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> name: confirmpassword]
+2021-06-08 11:53:59,308 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (283c17be0de61a2b731e639d52a3a12a)] -> xpath: //button[@type='submit']]
+2021-06-08 11:55:18,762 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 11:55:19,103 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 11:55:20,396 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 11:55:24,266 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 11:55:50,618 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 11:55:56,286 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 11:55:57,049 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> name: firstname]
+2021-06-08 11:55:57,589 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> name: lastname]
+2021-06-08 11:55:58,148 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> name: phone]
+2021-06-08 11:55:59,001 [main] [INFO ] Utiliti.Log:20:Log.java - put 115556m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> name: email]
+2021-06-08 11:55:59,397 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> name: password]
+2021-06-08 11:55:59,858 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> name: confirmpassword]
+2021-06-08 11:56:02,886 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7ad4f14965f8783291b843af94f85b9d)] -> xpath: //button[@type='submit']]
+2021-06-08 11:56:11,456 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 11:56:11,599 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:00:01,486 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:00:02,308 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:00:03,689 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:00:07,389 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:00:29,147 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:00:36,982 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:00:37,818 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> name: firstname]
+2021-06-08 12:00:38,406 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> name: lastname]
+2021-06-08 12:00:39,052 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> name: phone]
+2021-06-08 12:00:39,794 [main] [INFO ] Utiliti.Log:20:Log.java - put 120037m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> name: email]
+2021-06-08 12:00:40,351 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> name: password]
+2021-06-08 12:00:40,827 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> name: confirmpassword]
+2021-06-08 12:00:41,436 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (71ff6d1caa45fd41e5545d71f1d0b63d)] -> xpath: //button[@type='submit']]
+2021-06-08 12:01:58,829 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:01:59,178 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:02:00,274 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:02:04,217 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:02:21,695 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:02:39,889 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:02:40,571 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> name: firstname]
+2021-06-08 12:02:41,053 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> name: lastname]
+2021-06-08 12:02:41,608 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> name: phone]
+2021-06-08 12:02:42,211 [main] [INFO ] Utiliti.Log:20:Log.java - put 120239m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> name: email]
+2021-06-08 12:02:42,582 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> name: password]
+2021-06-08 12:02:43,028 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> name: confirmpassword]
+2021-06-08 12:02:43,409 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (cf6c6d4e60fb0802592d8cfcca3345ad)] -> xpath: //button[@type='submit']]
+2021-06-08 12:02:49,195 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:09:08,930 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:09:09,372 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:09:10,737 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:09:15,591 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:09:30,985 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:09:40,552 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:09:41,321 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> name: firstname]
+2021-06-08 12:09:41,875 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> name: lastname]
+2021-06-08 12:09:44,398 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> name: phone]
+2021-06-08 12:09:45,165 [main] [INFO ] Utiliti.Log:20:Log.java - put 120940m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> name: email]
+2021-06-08 12:09:45,609 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> name: password]
+2021-06-08 12:09:46,081 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (b6c4d95548742def7788f68eaba885c4)] -> name: confirmpassword]
+2021-06-08 12:09:51,437 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:20:01,859 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:20:02,238 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:20:03,353 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:20:10,650 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:21:43,212 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:21:50,374 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:21:53,714 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> name: firstname]
+2021-06-08 12:21:54,470 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> name: lastname]
+2021-06-08 12:21:55,091 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> name: phone]
+2021-06-08 12:21:55,850 [main] [INFO ] Utiliti.Log:20:Log.java - put 122152m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> name: email]
+2021-06-08 12:21:56,332 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> name: password]
+2021-06-08 12:21:56,884 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (713ab67f35b423389c998f84fd9f5c83)] -> name: confirmpassword]
+2021-06-08 12:22:04,045 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:29:31,536 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:29:31,902 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:29:33,043 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:29:37,976 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:29:52,543 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:29:58,151 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:29:58,946 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> name: firstname]
+2021-06-08 12:29:59,607 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> name: lastname]
+2021-06-08 12:30:00,225 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> name: phone]
+2021-06-08 12:30:01,043 [main] [INFO ] Utiliti.Log:20:Log.java - put 122958m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> name: email]
+2021-06-08 12:30:01,465 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> name: password]
+2021-06-08 12:30:01,901 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (f12f89caf9d6a3340e101e656bc05d3b)] -> name: confirmpassword]
+2021-06-08 12:30:04,319 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:33:39,180 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:33:40,421 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:33:41,486 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:33:46,522 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:33:53,704 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:34:05,369 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:34:06,194 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> name: firstname]
+2021-06-08 12:34:06,768 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> name: lastname]
+2021-06-08 12:34:07,400 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> name: phone]
+2021-06-08 12:34:08,157 [main] [INFO ] Utiliti.Log:20:Log.java - put 123405m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> name: email]
+2021-06-08 12:34:08,683 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> name: password]
+2021-06-08 12:34:09,120 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (32346a91e923c0e69184a29d7074596c)] -> name: confirmpassword]
+2021-06-08 12:34:14,583 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:38:10,113 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:38:10,515 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:38:11,564 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:38:18,805 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:39:37,457 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:39:49,181 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:39:50,161 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> name: firstname]
+2021-06-08 12:39:50,743 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> name: lastname]
+2021-06-08 12:39:51,326 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> name: phone]
+2021-06-08 12:39:51,940 [main] [INFO ] Utiliti.Log:20:Log.java - put 123949m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> name: email]
+2021-06-08 12:39:52,404 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> name: password]
+2021-06-08 12:39:52,904 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (21e30c0937d72ae7cf1862b47f2c826f)] -> name: confirmpassword]
+2021-06-08 12:40:01,343 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:41:32,082 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:41:32,434 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:41:33,555 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:41:38,702 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:41:53,204 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:41:59,876 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:42:00,667 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> name: firstname]
+2021-06-08 12:42:01,221 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> name: lastname]
+2021-06-08 12:42:01,866 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> name: phone]
+2021-06-08 12:42:02,723 [main] [INFO ] Utiliti.Log:20:Log.java - put 124159m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> name: email]
+2021-06-08 12:42:03,251 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> name: password]
+2021-06-08 12:42:03,677 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> name: confirmpassword]
+2021-06-08 12:42:04,798 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (67552889bebc1c075fd87e473decfe77)] -> xpath: //button[@type='submit']]
+2021-06-08 12:42:17,126 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 12:42:17,253 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:44:31,649 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:44:32,070 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:44:33,104 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:44:37,843 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:44:49,131 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (605cd81ab3f1fa2643ea9737391bf0c2)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:44:54,226 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (605cd81ab3f1fa2643ea9737391bf0c2)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:45:06,737 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 12:45:07,019 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:45:54,852 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:45:55,206 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:45:57,845 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:46:04,035 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:47:37,974 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (f0176a70c90ea74a3585c4e0fe50660f)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:47:42,097 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (f0176a70c90ea74a3585c4e0fe50660f)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:50:36,982 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:50:37,382 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:50:42,229 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:51:27,503 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:51:27,861 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:51:36,538 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:52:19,861 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:52:20,845 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:52:21,934 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:52:25,410 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:52:44,590 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (ca1ce99f1b95371737c38327042ca3d5)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:52:47,943 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (ca1ce99f1b95371737c38327042ca3d5)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:52:48,719 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (ca1ce99f1b95371737c38327042ca3d5)] -> name: firstname]
+2021-06-08 12:52:49,275 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (ca1ce99f1b95371737c38327042ca3d5)] -> name: lastname]
+2021-06-08 12:52:49,892 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (ca1ce99f1b95371737c38327042ca3d5)] -> name: phone]
+2021-06-08 12:53:04,028 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 12:53:04,301 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:53:51,541 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:53:51,931 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:53:53,587 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:53:58,773 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:55:23,138 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:55:28,441 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:55:29,194 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> name: firstname]
+2021-06-08 12:55:29,758 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> name: lastname]
+2021-06-08 12:55:30,405 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> name: phone]
+2021-06-08 12:55:31,130 [main] [INFO ] Utiliti.Log:20:Log.java - put 125528m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> name: email]
+2021-06-08 12:55:31,534 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> name: password]
+2021-06-08 12:55:31,950 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> name: confirmpassword]
+2021-06-08 12:55:32,315 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (b7313f25549a438e0cfd74da28c58d59)] -> xpath: //button[@type='submit']]
+2021-06-08 12:55:48,900 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 12:55:49,035 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:56:41,870 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:56:42,327 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:56:45,414 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:56:50,220 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:57:13,367 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:57:18,133 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:57:18,932 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> name: firstname]
+2021-06-08 12:57:19,559 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> name: lastname]
+2021-06-08 12:57:20,219 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> name: phone]
+2021-06-08 12:57:20,972 [main] [INFO ] Utiliti.Log:20:Log.java - put 125718m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> name: email]
+2021-06-08 12:57:21,498 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> name: password]
+2021-06-08 12:57:22,097 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (8a76e7ca9255d4e35f0eecf2fa7dbddf)] -> name: confirmpassword]
+2021-06-08 12:57:38,954 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 12:57:39,075 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 12:58:30,116 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 12:58:30,525 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 12:58:31,748 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 12:58:35,754 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 12:58:59,458 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 12:59:06,513 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 12:59:07,343 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> name: firstname]
+2021-06-08 12:59:07,886 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> name: lastname]
+2021-06-08 12:59:08,514 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> name: phone]
+2021-06-08 12:59:09,267 [main] [INFO ] Utiliti.Log:20:Log.java - put 125906m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> name: email]
+2021-06-08 12:59:09,791 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> name: password]
+2021-06-08 12:59:10,419 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (f10af34e6a85d49bc56571a857fdcff1)] -> name: confirmpassword]
+2021-06-08 12:59:27,702 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 12:59:27,807 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:05:05,240 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:05:06,045 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:05:07,137 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:05:11,427 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:05:30,992 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:05:38,084 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:05:38,866 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> name: firstname]
+2021-06-08 13:05:39,410 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> name: lastname]
+2021-06-08 13:05:40,053 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> name: phone]
+2021-06-08 13:05:40,810 [main] [INFO ] Utiliti.Log:20:Log.java - put 130538m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> name: email]
+2021-06-08 13:05:41,387 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> name: password]
+2021-06-08 13:05:41,965 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> name: confirmpassword]
+2021-06-08 13:05:42,320 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (7e4926dc7e2def4df5ea6c8b04da9bb0)] -> xpath: //button[@type='submit']]
+2021-06-08 13:05:56,650 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:05:56,896 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:08:24,029 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:08:24,473 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:08:25,714 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:08:30,044 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:08:45,697 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:08:49,120 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:08:49,895 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> name: firstname]
+2021-06-08 13:08:50,461 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> name: lastname]
+2021-06-08 13:08:51,086 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> name: phone]
+2021-06-08 13:08:51,802 [main] [INFO ] Utiliti.Log:20:Log.java - put 130849m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> name: email]
+2021-06-08 13:08:52,254 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> name: password]
+2021-06-08 13:08:52,700 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (4d622f0bc51f81a8fd420f274592b2d9)] -> name: confirmpassword]
+2021-06-08 13:09:08,765 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:09:08,895 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:09:43,181 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:09:44,119 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:09:45,398 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:09:50,043 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:10:02,690 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:10:07,739 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:10:08,514 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> name: firstname]
+2021-06-08 13:10:09,071 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> name: lastname]
+2021-06-08 13:10:09,703 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> name: phone]
+2021-06-08 13:10:10,440 [main] [INFO ] Utiliti.Log:20:Log.java - put 131007m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> name: email]
+2021-06-08 13:10:10,892 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> name: password]
+2021-06-08 13:10:11,356 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> name: confirmpassword]
+2021-06-08 13:10:12,332 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (82665cdcb86a3402ec115ae85cd46dab)] -> xpath: //button[@type='submit']]
+2021-06-08 13:10:24,835 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:10:27,136 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:11:15,640 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:11:16,493 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:11:17,714 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:11:22,130 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:11:46,071 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (8c037fa658b649edcfeadbe9cd92e875)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:11:50,386 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (8c037fa658b649edcfeadbe9cd92e875)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:11:51,134 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (8c037fa658b649edcfeadbe9cd92e875)] -> name: firstname]
+2021-06-08 13:11:51,642 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (8c037fa658b649edcfeadbe9cd92e875)] -> name: lastname]
+2021-06-08 13:11:52,197 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (8c037fa658b649edcfeadbe9cd92e875)] -> name: phone]
+2021-06-08 13:12:07,805 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:12:07,941 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:12:54,966 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:12:55,997 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:12:57,071 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:13:01,380 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:13:29,054 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (6793e69b45719d838d0df76f34a07ece)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:13:35,856 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (6793e69b45719d838d0df76f34a07ece)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:13:36,779 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (6793e69b45719d838d0df76f34a07ece)] -> name: firstname]
+2021-06-08 13:13:37,364 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (6793e69b45719d838d0df76f34a07ece)] -> name: lastname]
+2021-06-08 13:13:38,017 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (6793e69b45719d838d0df76f34a07ece)] -> name: phone]
+2021-06-08 13:13:38,750 [main] [INFO ] Utiliti.Log:20:Log.java - put 131335m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (6793e69b45719d838d0df76f34a07ece)] -> name: email]
+2021-06-08 13:13:50,721 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:13:50,896 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:14:29,951 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:14:30,389 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:14:31,529 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:14:35,035 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:16:00,553 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:16:06,589 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:16:07,304 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> name: firstname]
+2021-06-08 13:16:07,848 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> name: lastname]
+2021-06-08 13:16:08,419 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> name: phone]
+2021-06-08 13:16:09,083 [main] [INFO ] Utiliti.Log:20:Log.java - put 131606m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> name: email]
+2021-06-08 13:16:09,543 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> name: password]
+2021-06-08 13:16:09,943 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (14351e52fed1c2a0970922e22a4edb2d)] -> name: confirmpassword]
+2021-06-08 13:16:22,387 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:16:24,549 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:17:14,698 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:17:16,144 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:17:17,469 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:17:21,526 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:17:31,778 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (ee803df718531fceed062f5594e93a1e)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:17:35,409 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (ee803df718531fceed062f5594e93a1e)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:17:36,192 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (ee803df718531fceed062f5594e93a1e)] -> name: firstname]
+2021-06-08 13:17:36,736 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (ee803df718531fceed062f5594e93a1e)] -> name: lastname]
+2021-06-08 13:17:37,340 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (ee803df718531fceed062f5594e93a1e)] -> name: phone]
+2021-06-08 13:17:38,050 [main] [INFO ] Utiliti.Log:20:Log.java - put 131735m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (ee803df718531fceed062f5594e93a1e)] -> name: email]
+2021-06-08 13:17:38,586 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (ee803df718531fceed062f5594e93a1e)] -> name: password]
+2021-06-08 13:17:51,118 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:17:51,362 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:18:46,142 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:18:47,459 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:18:48,511 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:18:53,213 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:19:15,901 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:19:21,108 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:19:22,001 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> name: firstname]
+2021-06-08 13:19:22,559 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> name: lastname]
+2021-06-08 13:19:23,151 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> name: phone]
+2021-06-08 13:19:23,831 [main] [INFO ] Utiliti.Log:20:Log.java - put 131921m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> name: email]
+2021-06-08 13:19:24,273 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> name: password]
+2021-06-08 13:19:24,707 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (68464b19bc7d25b4c7955580d82dc8fd)] -> name: confirmpassword]
+2021-06-08 13:19:37,487 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:19:37,620 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:22:06,951 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:22:07,397 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:22:08,500 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:22:12,152 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:23:35,200 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:23:41,433 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:23:42,377 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> name: firstname]
+2021-06-08 13:23:42,906 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> name: lastname]
+2021-06-08 13:23:43,459 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> name: phone]
+2021-06-08 13:23:44,130 [main] [INFO ] Utiliti.Log:20:Log.java - put 132341m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> name: email]
+2021-06-08 13:23:44,532 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> name: password]
+2021-06-08 13:23:44,928 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (1edd2f95e00db028cd4ab0b4b42c089a)] -> name: confirmpassword]
+2021-06-08 13:24:01,149 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:24:01,338 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:26:32,779 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:26:33,105 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:26:50,077 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:26:54,756 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-08 13:26:55,820 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:26:58,288 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:26:59,129 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> name: firstname]
+2021-06-08 13:26:59,735 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> name: lastname]
+2021-06-08 13:27:00,429 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> name: phone]
+2021-06-08 13:27:01,222 [main] [INFO ] Utiliti.Log:20:Log.java - put 132658m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> name: email]
+2021-06-08 13:27:01,728 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> name: password]
+2021-06-08 13:27:02,309 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> name: confirmpassword]
+2021-06-08 13:27:02,852 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (6f283827400025f5b2d0bc5487a001cd)] -> xpath: //button[@type='submit']]
+2021-06-08 13:27:05,299 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-08 13:27:13,684 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:27:16,621 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-08 13:27:16,939 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-08 13:27:39,049 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-08 13:27:39,394 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-08 13:27:40,137 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-08 13:27:42,298 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-08 13:27:42,842 [main] [INFO ] Utiliti.Log:20:Log.java - put Ahmed in the elment [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> name: firstname]
+2021-06-08 13:27:43,372 [main] [INFO ] Utiliti.Log:20:Log.java - put mohamed in the elment [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> name: lastname]
+2021-06-08 13:27:43,959 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> name: phone]
+2021-06-08 13:27:44,692 [main] [INFO ] Utiliti.Log:20:Log.java - put 132742m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> name: email]
+2021-06-08 13:27:45,176 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> name: password]
+2021-06-08 13:27:45,674 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> name: confirmpassword]
+2021-06-08 13:27:46,235 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (73da4e6e87e66fa38052f477df26c45a)] -> xpath: //button[@type='submit']]
+2021-06-08 13:27:48,231 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-08 13:27:52,243 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-08 13:27:52,318 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing php Travel
+2021-06-08 13:35:50,757 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-08 13:35:51,634 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-09 10:29:19,341 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-09 10:29:19,571 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing C:/Users/Mostafa/php Travel
+2021-06-12 10:44:50,261 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:08:24,821 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:11:17,142 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:21:47,500 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:27:42,613 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:33:01,795 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:37:55,151 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:40:39,044 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 11:40:39,542 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 11:40:50,295 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 11:40:55,653 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-12 11:40:59,283 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 11:41:04,121 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 11:41:05,061 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> name: firstname]
+2021-06-12 11:41:05,583 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> name: lastname]
+2021-06-12 11:41:06,181 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> name: phone]
+2021-06-12 11:41:06,956 [main] [INFO ] Utiliti.Log:20:Log.java - put 114104m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> name: email]
+2021-06-12 11:41:07,509 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> name: password]
+2021-06-12 11:41:08,039 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> name: confirmpassword]
+2021-06-12 11:41:08,733 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (bdf7e969591a701c60d2f4a150ebe5ec)] -> xpath: //button[@type='submit']]
+2021-06-12 11:41:10,769 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 11:41:16,113 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:42:14,677 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 11:42:15,157 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 11:42:24,416 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 11:42:27,003 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-12 11:42:28,170 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 11:42:29,893 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 11:42:30,726 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> name: firstname]
+2021-06-12 11:42:31,199 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> name: lastname]
+2021-06-12 11:42:31,733 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> name: phone]
+2021-06-12 11:42:33,704 [main] [INFO ] Utiliti.Log:20:Log.java - put 114229m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> name: email]
+2021-06-12 11:42:34,180 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> name: password]
+2021-06-12 11:42:34,692 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> name: confirmpassword]
+2021-06-12 11:42:35,278 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (d8237ac017d9070db93e1b0da96571e7)] -> xpath: //button[@type='submit']]
+2021-06-12 11:42:36,545 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 11:42:40,481 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-12 11:42:44,662 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 11:42:44,904 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 11:42:55,455 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 11:42:57,714 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-12 11:42:58,522 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 11:43:02,006 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 11:43:02,515 [main] [INFO ] Utiliti.Log:20:Log.java - put Ahmed in the elment [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> name: firstname]
+2021-06-12 11:43:02,977 [main] [INFO ] Utiliti.Log:20:Log.java - put mohamed in the elment [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> name: lastname]
+2021-06-12 11:43:03,490 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> name: phone]
+2021-06-12 11:43:04,230 [main] [INFO ] Utiliti.Log:20:Log.java - put 114302m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> name: email]
+2021-06-12 11:43:05,298 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> name: password]
+2021-06-12 11:43:05,740 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> name: confirmpassword]
+2021-06-12 11:43:06,311 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (07a47bbbf8b877e804c412ec72f6a531)] -> xpath: //button[@type='submit']]
+2021-06-12 11:43:09,004 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 11:43:11,078 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-12 11:43:11,765 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 11:59:58,579 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 11:59:59,011 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 12:00:12,555 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 12:00:22,207 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-12 12:00:24,120 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 12:00:27,029 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 12:00:27,967 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> name: firstname]
+2021-06-12 12:00:28,550 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> name: lastname]
+2021-06-12 12:00:29,144 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> name: phone]
+2021-06-12 12:00:29,818 [main] [INFO ] Utiliti.Log:20:Log.java - put 120027m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> name: email]
+2021-06-12 12:00:30,328 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> name: password]
+2021-06-12 12:00:30,850 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> name: confirmpassword]
+2021-06-12 12:00:31,397 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (2da9f2da5945608f8b7c36169468e783)] -> xpath: //button[@type='submit']]
+2021-06-12 12:00:33,507 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 12:00:37,059 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-12 12:00:42,829 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 12:00:43,036 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 12:00:52,131 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 12:00:52,368 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-12 12:00:53,313 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 12:00:55,036 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 12:00:55,585 [main] [INFO ] Utiliti.Log:20:Log.java - put Ahmed in the elment [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> name: firstname]
+2021-06-12 12:00:58,663 [main] [INFO ] Utiliti.Log:20:Log.java - put mohamed in the elment [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> name: lastname]
+2021-06-12 12:00:59,195 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> name: phone]
+2021-06-12 12:00:59,829 [main] [INFO ] Utiliti.Log:20:Log.java - put 120055m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> name: email]
+2021-06-12 12:01:00,357 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> name: password]
+2021-06-12 12:01:00,859 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> name: confirmpassword]
+2021-06-12 12:01:01,386 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (2009150570dd5f3bc3ba63752b6d427e)] -> xpath: //button[@type='submit']]
+2021-06-12 12:01:03,261 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 12:01:06,070 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-12 12:01:06,363 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 12:22:08,618 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 12:22:09,218 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 12:22:22,268 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 12:22:32,612 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-12 12:22:38,223 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 12:22:40,982 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 12:22:42,407 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> name: firstname]
+2021-06-12 12:22:43,041 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> name: lastname]
+2021-06-12 12:22:43,939 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> name: phone]
+2021-06-12 12:22:44,853 [main] [INFO ] Utiliti.Log:20:Log.java - put 122241m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> name: email]
+2021-06-12 12:22:45,488 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> name: password]
+2021-06-12 12:22:46,071 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> name: confirmpassword]
+2021-06-12 12:22:46,881 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (9da2fa791197f3de1214e98258157518)] -> xpath: //button[@type='submit']]
+2021-06-12 12:22:49,771 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 12:22:55,004 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-12 12:23:05,134 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 12:23:05,395 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 12:23:18,391 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 12:23:18,786 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-12 12:23:19,482 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 12:23:22,678 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 12:23:23,283 [main] [INFO ] Utiliti.Log:20:Log.java - put Ahmed in the elment [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> name: firstname]
+2021-06-12 12:23:23,875 [main] [INFO ] Utiliti.Log:20:Log.java - put mohamed in the elment [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> name: lastname]
+2021-06-12 12:23:24,481 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> name: phone]
+2021-06-12 12:23:25,431 [main] [INFO ] Utiliti.Log:20:Log.java - put 122322m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> name: email]
+2021-06-12 12:23:26,003 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> name: password]
+2021-06-12 12:23:26,513 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> name: confirmpassword]
+2021-06-12 12:23:27,374 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (4c9ee8bbb5e38a5db54efc0b1cb6550e)] -> xpath: //button[@type='submit']]
+2021-06-12 12:23:30,178 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 12:23:38,148 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
+2021-06-12 12:26:19,209 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 12:26:19,706 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 12:26:35,766 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 12:26:57,083 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest1 is starting.
+2021-06-12 12:27:01,141 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 12:27:06,560 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 12:27:10,088 [main] [INFO ] Utiliti.Log:20:Log.java - put Mostafa in the elment [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> name: firstname]
+2021-06-12 12:27:10,864 [main] [INFO ] Utiliti.Log:20:Log.java - put Salem in the elment [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> name: lastname]
+2021-06-12 12:27:13,162 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> name: phone]
+2021-06-12 12:27:14,147 [main] [INFO ] Utiliti.Log:20:Log.java - put 122709m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> name: email]
+2021-06-12 12:27:14,917 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> name: password]
+2021-06-12 12:27:15,495 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> name: confirmpassword]
+2021-06-12 12:27:16,392 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (097b20a7ed17773e8b955ca01c3242d8)] -> xpath: //button[@type='submit']]
+2021-06-12 12:27:18,140 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 12:27:28,673 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-12 12:27:36,211 [main] [INFO ] Utiliti.Log:20:Log.java - Now we open the browser.
+2021-06-12 12:27:38,645 [main] [INFO ] Utiliti.Log:20:Log.java - Browser is maximized now.
+2021-06-12 12:27:53,766 [main] [INFO ] Utiliti.Log:20:Log.java - We Open The Website Now.
+2021-06-12 12:27:54,101 [main] [INFO ] Utiliti.Log:20:Log.java - SignupTest2 is starting.
+2021-06-12 12:27:54,734 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> xpath: //div[(@class='dropdown dropdown-login dropdown-tab')]]
+2021-06-12 12:28:00,868 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> xpath: //a[(@class='dropdown-item tr')]]
+2021-06-12 12:28:01,474 [main] [INFO ] Utiliti.Log:20:Log.java - put Ahmed in the elment [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> name: firstname]
+2021-06-12 12:28:02,058 [main] [INFO ] Utiliti.Log:20:Log.java - put mohamed in the elment [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> name: lastname]
+2021-06-12 12:28:02,685 [main] [INFO ] Utiliti.Log:20:Log.java - put 123234465 in the elment [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> name: phone]
+2021-06-12 12:28:03,587 [main] [INFO ] Utiliti.Log:20:Log.java - put 122800m@test.com in the elment [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> name: email]
+2021-06-12 12:28:04,327 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> name: password]
+2021-06-12 12:28:04,885 [main] [INFO ] Utiliti.Log:20:Log.java - put #As123 in the elment [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> name: confirmpassword]
+2021-06-12 12:28:05,781 [main] [INFO ] Utiliti.Log:20:Log.java - Clcik on [[ChromeDriver: chrome on WINDOWS (fb6a61d597e8409592fac4716f318d94)] -> xpath: //button[@type='submit']]
+2021-06-12 12:28:07,736 [main] [INFO ] Utiliti.Log:20:Log.java - Verifying signup successfully 
+2021-06-12 12:28:13,006 [main] [INFO ] Utiliti.Log:20:Log.java - Now browser is closed 
+2021-06-12 12:28:13,101 [main] [INFO ] Utiliti.Log:20:Log.java - Finishing Php_Travel_Practice
